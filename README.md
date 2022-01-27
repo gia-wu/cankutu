@@ -88,3 +88,4 @@ GitHub加速（Fast-GitHub）：https://github.com/fhefh2015/Fast-GitHub
 HelloGitHub（趣味入门开源项目，编程入门）：https://github.com/521xueweihan/HelloGitHub
 
 好耶是女装（蓝孩子程序员的女装照）：https://github.com/komeiji-satori/Dress
+CCWAV的青龙（可以备用）：https://github.com/ccwav/QLScript2
