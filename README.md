@@ -118,3 +118,5 @@ Ariszy（Zhiyi-N）仓库 ql repo https://github.com/Ariszy/Private-Script.git "
 moposmall仓库 ql repo https://github.com/moposmall/Script.git "jx_mc|cfd.js" 23 8,12,16,20,0 * * * 空闲中
 
 龙珠仓库 ql repo https://github.com/longzhuzhu/nianyu.git "qx" “main” 27 8,12,16,20,0 * * * 空闲中
+
+【合集】 各大JD脚本库合集（最全收藏版）-适用青龙2.10.3及以上https://www.iyouhun.com/post-207.html
