@@ -123,3 +123,5 @@ moposmall仓库 ql repo https://github.com/moposmall/Script.git "jx_mc|cfd.js" 2
 
 
 一个仓库  https://github.com/lukesyy/jd_yun/tree/main
+
+小小仓库  https://github.com/Aaron-lv/sync
